@@ -52,12 +52,12 @@ Used to build and train the AI models, such as:
 * Object/motion detection
 * Preprocessing and visualization
 
-### **8. Google Drive Integration**
+### **5. Google Drive Integration**
 
 * Storing models, datasets, and logs
 * Automatic syncing with Google Colab
 
-### **9. GitHub**
+### **6. GitHub**
 
 * Version control and collaborative development
 * Hosting the project code and documentation
